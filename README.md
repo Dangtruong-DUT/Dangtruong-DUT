@@ -37,7 +37,7 @@ I'm a developer with a strong passion for building seamless, interactive digital
 | **Frontend**        | `React`, `React Native`, `Next.js`, `Zustand`, `React Query`, `Context API`                      |
 | **Backend**         | `NestJS`, `ExpressJS`, `Node.js`                                                                 |
 | **Databases**       | `MySQL`, `MongoDB`                                                                               |
-| **Dev Tools**       | `Git`, `Figma`, `Expo`, `RESTful APIs`, `GraphQL`                                                |
+| **Dev Tools**       | `Git`, `Figma`, `Expo`, `RESTful APIs`                                               |
 
 ---
 
