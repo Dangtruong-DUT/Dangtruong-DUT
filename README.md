@@ -21,7 +21,7 @@ I'm a developer with a strong passion for building seamless, interactive digital
 
 - 🚀 Focused on scalable apps with **React** & **React Native**
 - 🎨 Dedicated to accessible, SEO-friendly, and beautiful **UI/UX**
-- ⚡ API integration specialist: **RESTful**, **GraphQL**
+- ⚡ API integration specialist: **RESTful**
 - 🛠️ Backend: **NestJS**, **ExpressJS**, **Node.js**
 - 💻 Fluent in **JavaScript**, **TypeScript**, **HTML** & **CSS/SCSS**
 - 🗄️ Database savvy: **MySQL**, **MongoDB**
