@@ -11,6 +11,12 @@
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/shadcn%20ui-111827?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
@@ -25,19 +31,25 @@ I'm a developer with a strong passion for building seamless, interactive digital
 - 🛠️ Backend: **NestJS**, **ExpressJS**, **Node.js**
 - 💻 Fluent in **JavaScript**, **TypeScript**, **HTML** & **CSS/SCSS**
 - 🗄️ Database savvy: **MySQL**, **MongoDB**
+- ☁️ Cloud: **AWS S3**, **AWS Cloud**
+- 🎨 Design: **Figma**
 - 🌱 Lifelong learner, always exploring and adapting to new tech
+
+> 💡 **Currently learning NestJS!**
 
 ---
 
 ## Tech Stack & Tools
 
-| Category            | Technologies                                                                                      |
-|---------------------|--------------------------------------------------------------------------------------------------|
-| **Languages**       | `TypeScript`, `JavaScript`, `HTML`, `CSS/SCSS`                                                   |
-| **Frontend**        | `React`, `React Native`, `Next.js`, `Zustand`, `React Query`, `Context API`                      |
-| **Backend**         | `NestJS`, `ExpressJS`, `Node.js`                                                                 |
-| **Databases**       | `MySQL`, `MongoDB`                                                                               |
-| **Dev Tools**       | `Git`, `Figma`, `Expo`, `RESTful APIs`                                               |
+| Category            | Technologies                                                                                                   |
+|---------------------|---------------------------------------------------------------------------------------------------------------|
+| **Languages**       | `TypeScript`, `JavaScript`, `HTML`, `CSS/SCSS`                                                                |
+| **Frontend**        | `React`, `React Native`, `Next.js`, `Zustand`, `React Query`, `Context API`, `Redux Toolkit`, `TailwindCSS`, `shadcn/ui` |
+| **Backend**         | `NestJS`, `ExpressJS`, `Node.js`                                                                              |
+| **Databases**       | `MySQL`, `MongoDB`                                                                                            |
+| **Cloud**           | `AWS S3`, `AWS Cloud`                                                                                         |
+| **Design**          | `Figma`                                                                                                       |
+| **Dev Tools**       | `Git`, `Expo`, `RESTful APIs`                                                                                 |
 
 ---
 
