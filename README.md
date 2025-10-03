@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%22Hi%2C+I'm+a+Web+%26+Mobile+Developer+based+in+Da+Nang%2C+Vietnam+%F0%9F%87%BB%F0%9F%87%B3.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Truong+Nguyen+Dang)](https://git.io/typing-svg)
 
 
 ## 👋 About Me
