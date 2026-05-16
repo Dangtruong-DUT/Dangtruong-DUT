@@ -74,7 +74,7 @@ I'm a developer passionate about creating smooth, interactive digital experience
   &nbsp;
   <a href="https://www.linkedin.com/in/Dangtruong-DUT" title="LinkedIn"><img src="https://img.icons8.com/color/48/linkedin-circled.png" width="32" alt="LinkedIn"/></a>
   &nbsp;
-  <a href="https://www.facebook.com/nd.trg281" title="Facebook"><img src="https://img.icons8.com/color/48/facebook-new.png" width="32" alt="Facebook"/></a>
+  <a href="https://www.facebook.com/truongnd12.1" title="Facebook"><img src="https://img.icons8.com/color/48/facebook-new.png" width="32" alt="Facebook"/></a>
   &nbsp;
   <a href="https://github.com/Dangtruong-DUT" title="GitHub"><img src="https://img.icons8.com/ios-filled/50/github.png" width="32" alt="GitHub"/></a>
 </p>
